@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2.Northwind.OOC.BL"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2.Northwind.UnitTest", "Practica2.Northwind.UnitTest\Practica2.Northwind.UnitTest.csproj", "{96B03C8B-9944-4CE3-B336-20573F2873E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2.Northwind.OOC.Model", "Practica2.Northwind.OOC.Model\Practica2.Northwind.OOC.Model.csproj", "{2768DCBB-FEE1-4474-B84C-EBA3B2E161D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{96B03C8B-9944-4CE3-B336-20573F2873E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96B03C8B-9944-4CE3-B336-20573F2873E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96B03C8B-9944-4CE3-B336-20573F2873E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2768DCBB-FEE1-4474-B84C-EBA3B2E161D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2768DCBB-FEE1-4474-B84C-EBA3B2E161D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2768DCBB-FEE1-4474-B84C-EBA3B2E161D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2768DCBB-FEE1-4474-B84C-EBA3B2E161D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
